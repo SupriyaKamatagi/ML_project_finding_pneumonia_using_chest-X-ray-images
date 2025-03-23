@@ -3,5 +3,5 @@ It kills more children younger than 5 years old each year than any other infecti
 Diagnosis is often based on symptoms and physical examination. Chest X-rays may help confirm the diagnosis.
 Used Kaggle Dataset.
 
-Applied skills gained by "Fundamentals of AI/ML in Precision Medicine certificate program" offered by Stanford Data Ocean.
+Applied skills gained by the "Fundamentals of AI/ML in Precision Medicine certificate program" offered by Stanford Data Ocean.
 
